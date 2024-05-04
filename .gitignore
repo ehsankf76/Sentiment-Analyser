@@ -1,5 +1,6 @@
 # data
 /Video_Games_5.json
+/undersampled_Video_Games_reviews.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
